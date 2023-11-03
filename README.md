@@ -6,7 +6,9 @@
 
 - Ing. Tecnologias de la información y comunicaciones.
 - Instituto Tecnológico de Tijuana.
-![GitHub followers](https://img.shields.io/github/followers/Elcarlos2925?style=flat-square&logo=GitHub&logoColor=black&labelColor=white&color=white)
+<br>
+<img src="https://img.shields.io/github/followers/Elcarlos2925?style=flat-square&logo=GitHub&logoColor=black&labelColor=white&color=white
+" alt="the-drop-coffee">
 <br>
 ## Proyectos *Grandes*
 <table>
