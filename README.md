@@ -30,8 +30,8 @@
                                                                                       
 </td>
 
+<br>
 <td width="50%">
-               <br>
 <h3 align="center" style="color:black;">E-comerce Café</h3>
 <div align="center">                                       
 <a href="https://github.com/Elcarlos2925/Proyecto.git" target="_blank"><img src="https://github.com/Elcarlos2925/Proyecto/blob/master/img/logo.png" width="400" ></a>
