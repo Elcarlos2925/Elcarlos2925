@@ -15,9 +15,9 @@
 <td width="50%">
 <h3 align="center">Sistema de cobro cafeteria</h3>
 <div align="center">
-<a href="https://github.com/Elcarlos2925/Proyecto.git" target="_blank"><img src="<!--linkdelaimagen-->" width="400" alt="the-drop-coffee"></a>
+<a href="https://github.com/Elcarlos2925/WindowsForms_TheDropCoffee.git" target="_blank"><img src="https://github.com/Elcarlos2925/Proyecto/blob/master/img/oldlogo.png" width="400" alt="the-drop-coffee"></a>
 <p>
-<a href="https://github.com/Elcarlos2925/Proyecto.git" target="_blank">
+<a href="https://github.com/Elcarlos2925/WindowsForms_TheDropCoffee.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -48,9 +48,9 @@
 <td width="100%">
 <h3 align="center">Algoritmos de Busqueda y ordenamiento Python</h3>
 <div align="center">
-<a href="https://github.com/Elcarlos2925/Proyecto.git" target="_blank"><img src="<!--linkdelaimagen-->" width="400" alt="the-drop-coffee"></a>
+<a href="https://github.com/Elcarlos2925/Estructura-y-organizacion-de-datos" target="_blank"><img src="https://github.com/Elcarlos2925/Estructura-y-organizacion-de-datos/blob/main/quicksort.png" width="400" alt="the-drop-coffee"></a>
 <p>
-<a href="https://github.com/Elcarlos2925/Proyecto.git" target="_blank">
+<a href="https://github.com/Elcarlos2925/Estructura-y-organizacion-de-datos" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
