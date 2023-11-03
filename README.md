@@ -8,21 +8,8 @@
 <br>
 
 ## Sobre mi
-![Static Badge](https://img.shields.io/badge/*ing.-white?style=for-the-badge&logo=&logoColor=black&labelColor=white&color=white)
-![Static Badge](https://img.shields.io/badge/Tecnologías-white?style=for-the-badge&logo=&logoColor=black&labelColor=white&color=white)
-![Static Badge](https://img.shields.io/badge/de-white?style=for-the-badge&logo=&logoColor=black&labelColor=white&color=white)
-![Static Badge](https://img.shields.io/badge/la-white?style=for-the-badge&logo=&logoColor=black&labelColor=white&color=white)
-![Static Badge](https://img.shields.io/badge/información-white?style=for-the-badge&logo=&logoColor=black&labelColor=white&color=white)
-![Static Badge](https://img.shields.io/badge/y-white?style=for-the-badge&logo=&logoColor=black&labelColor=white&color=white)
-![Static Badge](https://img.shields.io/badge/comunicacines.-white?style=for-the-badge&logo=&logoColor=black&labelColor=white&color=white)
-<br>
-
-![Static Badge](https://img.shields.io/badge/*Instituto-white?style=for-the-badge&logo=&logoColor=black&labelColor=white&color=white)
-![Static Badge](https://img.shields.io/badge/Tecnologico-white?style=for-the-badge&logo=&logoColor=black&labelColor=white&color=white)
-![Static Badge](https://img.shields.io/badge/de-white?style=for-the-badge&logo=&logoColor=black&labelColor=white&color=white)
-![Static Badge](https://img.shields.io/badge/Tijuana.-white?style=for-the-badge&logo=&logoColor=black&labelColor=white&color=white)
-<br>
-<br>
+- Ing. Tecnologías de la Información y Comunicacines
+- Instituto Tecnologico de Tijuana.
 
 ## Proyectos *Grandes*
 <table>
