@@ -17,15 +17,17 @@
 <td width="50%">
 <h3 align="center" style="color:black;">Sistema de cobro cafeteria</h3>
 <div align="center">
-<a href="https://github.com/Elcarlos2925/WindowsForms_TheDropCoffee.git" target="_blank">
-  <img src="https://github.com/Elcarlos2925/Proyecto/blob/master/img/oldlogo.png" width="400" style="border-radius: 10px;">
-</a>
-<p>
-<a href="https://github.com/Elcarlos2925/WindowsForms_TheDropCoffee.git" target="_blank">
-<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white&labelColor=black&color=black">
-</a>
-</p>
-<p>Este proyecto es un ambiente de trabajo para una cafeteria llamada <strong>The Drop Coffee</strong> es realizado en <strong>C#</strong> desarrollada en windows forms y mysql para la base de datos.</p>
+  <div align="center">
+    <a href="https://github.com/Elcarlos2925/WindowsForms_TheDropCoffee.git" target="_blank">
+      <img src="https://github.com/Elcarlos2925/Proyecto/blob/master/img/oldlogo.png" width="400" alt="the-drop-coffee" style="border-radius: 10px;">
+    </a>
+  </div>
+  <p>
+  <a href="https://github.com/Elcarlos2925/WindowsForms_TheDropCoffee.git" target="_blank">
+  <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white&labelColor=black&color=black">
+  </a>
+  </p>
+  <p>Este proyecto es un ambiente de trabajo para una cafeteria llamada <strong>The Drop Coffee</strong> es realizado en <strong>C#</strong> desarrollada en windows forms y mysql para la base de datos.</p>
 </div>
                                                                                       
 </td>
