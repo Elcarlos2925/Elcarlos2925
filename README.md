@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Este proyecto es un ambiente de trabajo para una cafeteria donde se despliega un menú de articulos que permite realizar ordenes con un simple toque, calcula el total a pagar e imprime una simulación de ticket la cafeteria es llamada <strong>The Drop Coffee</strong> es realizado en <strong>C#</strong> desarrollada en windows forms con (.net framework) y usamos mysql para la base de datos.</p>
+<p>Este proyecto es un ambiente de trabajo para una cafeteria llamada <strong>The Drop Coffee</strong> es realizado en <strong>C#</strong> desarrollada en windows forms y mysql para la base de datos.</p>
 </div>
                                                                                       
 </td>
@@ -50,7 +50,7 @@
 <div align="center">
 <a href="https://github.com/Elcarlos2925/Proyecto.git" target="_blank"><img src="<!--linkdelaimagen-->" width="400" alt="the-drop-coffee"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/Elcarlos2925/Proyecto.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -66,6 +66,7 @@
 
 <p align="center">
 <a href="https://github.com/Elcarlos2925">
-  <img height="180em" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Elcarlos2925&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elcarlos2925&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Elcarlos2925&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
