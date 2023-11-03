@@ -4,11 +4,10 @@
 
 ## Sobre mi
 
-![GitHub followers](https://img.shields.io/github/followers/Elcarlos2925?style=flat-square&logo=GitHub&logoColor=white&color=black)
-<br>
 - Ing. Tecnologias de la información y comunicaciones.
 - Instituto Tecnológico de Tijuana.
-
+![GitHub followers](https://img.shields.io/github/followers/Elcarlos2925?style=flat-square&logo=GitHub&logoColor=black&labelColor=white&color=white)
+<br>
 ## Proyectos *Grandes*
 <table>
 <tr>
