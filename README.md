@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <span style="color:blue;">Carlos Lozoya</span> 👋</h1>
+<h1 align="center" style="color:black;">Hola, soy <span style="color:blue;">Carlos Lozoya</span> 👋</h1>
 </div>
 
 ![Static Badge](https://img.shields.io/badge/Apple-white?style=for-the-badge&logo=apple&logoColor=black&labelColor=white&color=white)
@@ -28,7 +28,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Sistema de cobro cafeteria</h3>
+<h3 align="center" style="color:black;">Sistema de cobro cafeteria</h3>
 <div align="center">
 <a href="https://github.com/Elcarlos2925/WindowsForms_TheDropCoffee.git" target="_blank"><img src="https://github.com/Elcarlos2925/Proyecto/blob/master/img/oldlogo.png" width="400" alt="the-drop-coffee"></a>
 <p>
@@ -43,7 +43,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">E-comerce Café</h3>
+<h3 align="center" style="color:black;">E-comerce Café</h3>
 <div align="center">                                       
 <a href="https://github.com/Elcarlos2925/Proyecto.git" target="_blank"><img src="https://github.com/Elcarlos2925/Proyecto/blob/master/img/logo.png" width="400" alt="the-drop-coffee"></a>
 <br>
@@ -61,7 +61,7 @@
 <table>
 <tr>
 <td width="100%">
-<h3 align="center">Algoritmos de Busqueda y ordenamiento Python</h3>
+<h3 align="center" style="color:black;">Algoritmos de Busqueda y ordenamiento Python</h3>
 <div align="center">
 <a href="https://github.com/Elcarlos2925/Estructura-y-organizacion-de-datos" target="_blank"><img src="https://github.com/Elcarlos2925/Estructura-y-organizacion-de-datos/blob/main/quicksort.png" width="400" alt="the-drop-coffee"></a>
 <p>
