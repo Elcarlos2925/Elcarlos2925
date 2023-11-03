@@ -1,6 +1,11 @@
 <div align="center">
-<h1 align="center">Hola, soy Carlos Lozoya 👋</h1>
+<h1 align="center" style="color:blue;">Hola, soy Carlos Lozoya 👋</h1>
 </div>
+
+![Static Badge](https://img.shields.io/badge/Apple-white?style=for-the-badge&logo=apple&logoColor=black&labelColor=white&color=white)
+![Static Badge](https://img.shields.io/badge/|-white?style=for-the-badge&logoColor=black&labelColor=white&color=white)
+![GitHub followers](https://img.shields.io/github/followers/Elcarlos2925?style=for-the-badge&logo=GitHub&logoColor=black&labelColor=white&color=white)
+<br>
 
 ## Sobre mi
 ![Static Badge](https://img.shields.io/badge/*ing.-white?style=for-the-badge&logo=&logoColor=black&labelColor=white&color=white)
@@ -18,9 +23,7 @@
 ![Static Badge](https://img.shields.io/badge/Tijuana.-white?style=for-the-badge&logo=&logoColor=black&labelColor=white&color=white)
 <br>
 <br>
-![Static Badge](https://img.shields.io/badge/Apple-white?style=for-the-badge&logo=apple&logoColor=black&labelColor=white&color=white)
-![Static Badge](https://img.shields.io/badge/|-white?style=for-the-badge&logoColor=black&labelColor=white&color=white)
-![GitHub followers](https://img.shields.io/github/followers/Elcarlos2925?style=for-the-badge&logo=GitHub&logoColor=black&labelColor=white&color=white)
+
 ## Proyectos *Grandes*
 <table>
 <tr>
