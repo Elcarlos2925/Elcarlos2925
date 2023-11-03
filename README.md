@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center" style="color:blue;">Hola, soy Carlos Lozoya 👋</h1>
+<h1 align="center">Hola, soy <span style="color:blue;">Carlos Lozoya</span> 👋</h1>
 </div>
 
 ![Static Badge](https://img.shields.io/badge/Apple-white?style=for-the-badge&logo=apple&logoColor=black&labelColor=white&color=white)
