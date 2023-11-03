@@ -17,7 +17,9 @@
 <td width="50%">
 <h3 align="center" style="color:black;">Sistema de cobro cafeteria</h3>
 <div align="center">
-<a href="https://github.com/Elcarlos2925/WindowsForms_TheDropCoffee.git" target="_blank"><img src="https://github.com/Elcarlos2925/Proyecto/blob/master/img/oldlogo.png" width="400" alt="the-drop-coffee"></a>
+<a href="https://github.com/Elcarlos2925/WindowsForms_TheDropCoffee.git" target="_blank">
+  <img src="https://github.com/Elcarlos2925/Proyecto/blob/master/img/oldlogo.png" width="400" style="border-radius: 10px;">
+</a>
 <p>
 <a href="https://github.com/Elcarlos2925/WindowsForms_TheDropCoffee.git" target="_blank">
 <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white&labelColor=black&color=black">
@@ -32,7 +34,7 @@
                <br>
 <h3 align="center" style="color:black;">E-comerce Café</h3>
 <div align="center">                                       
-<a href="https://github.com/Elcarlos2925/Proyecto.git" target="_blank"><img src="https://github.com/Elcarlos2925/Proyecto/blob/master/img/logo.png" width="400" alt="the-drop-coffee"></a>
+<a href="https://github.com/Elcarlos2925/Proyecto.git" target="_blank"><img src="https://github.com/Elcarlos2925/Proyecto/blob/master/img/logo.png" width="400" style="border-radius: 10px;"></a>
 <br>
 <p>
 <a href="https://github.com/Elcarlos2925/Proyecto.git" target="_blank">
@@ -50,7 +52,7 @@
 <td width="100%">
 <h3 align="center" style="color:black;">Algoritmos de Busqueda y ordenamiento Python</h3>
 <div align="center">
-<a href="https://github.com/Elcarlos2925/Estructura-y-organizacion-de-datos" target="_blank"><img src="https://github.com/Elcarlos2925/Estructura-y-organizacion-de-datos/blob/main/quicksort.png" width="400" alt="the-drop-coffee"></a>
+<a href="https://github.com/Elcarlos2925/Estructura-y-organizacion-de-datos" target="_blank"><img src="https://github.com/Elcarlos2925/Estructura-y-organizacion-de-datos/blob/main/quicksort.png" width="400" style="border-radius: 10px;"></a>
 <p>
 <a href="https://github.com/Elcarlos2925/Estructura-y-organizacion-de-datos" target="_blank">
 <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white&labelColor=black&color=black">
