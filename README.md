@@ -18,7 +18,7 @@
 <h3 align="center" style="color:black;">Sistema de cobro cafeteria</h3>
 <div align="center">
   <a href="https://github.com/Elcarlos2925/WindowsForms_TheDropCoffee.git">
-    <img src="https://github.com/Elcarlos2925/Proyecto/blob/master/img/oldlogo.png" width="400" alt="the-drop-coffee" >
+    <img src="https://github.com/Elcarlos2925/Proyecto/blob/main/img/oldlogo.png" width="400" alt="the-drop-coffee" >
   </a>
   <p>
   <a href="https://github.com/Elcarlos2925/WindowsForms_TheDropCoffee.git" target="_blank">
@@ -34,7 +34,7 @@
 <td width="50%">
 <h3 align="center" style="color:black;">E-comerce Café</h3>
 <div align="center">                                       
-<a href="https://github.com/Elcarlos2925/Proyecto.git" target="_blank"><img src="https://github.com/Elcarlos2925/Proyecto/blob/master/img/logo.png" width="400" ></a>
+<a href="https://github.com/Elcarlos2925/Proyecto.git" target="_blank"><img src="https://github.com/Elcarlos2925/Proyecto/blob/main/img/logo.png" width="400" ></a>
 <br>
 <p>
 <a href="https://github.com/Elcarlos2925/Proyecto.git" target="_blank">
